@@ -1,0 +1,20 @@
+{
+  "name": "taiwan-architect-kb-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Taiwan Architect Knowledge Base (SOP document sorting)",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
