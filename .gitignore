@@ -19,3 +19,6 @@ Skills-Architects/
 # wiki/ and outputs/ are local only
 wiki/
 outputs/
+
+# Company-internal source document: kept locally, never staged to the public SOP repository.
+raw/經營管理/工作SOP_20260713.pptx
